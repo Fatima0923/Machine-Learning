@@ -1,6 +1,6 @@
 # Random Forest Classifier on OCR Dataset
 
-This repository implements a Random Forest Classifier for handwritten character recognition using the widely used Optical Character Recognition (OCR) dataset. The project demonstrates how ensemble learning can be applied to achieve robust performance in text recognition tasks.
+This repository implements a Random Forest Classifier for handwritten character recognition using the Optical Character Recognition (OCR) dataset from Scikit Learn Python Library. The project demonstrates how ensemble learning can be applied to achieve robust performance in text recognition tasks.
 
 ### Features
 
